@@ -1,4 +1,4 @@
-# Request_DORO_L293D_ArduinoUNO
+# Request-bluetooth-rc-l293d-arduino 
 # Bluetooth RC Motor Controller (블루투스 무선 모터 구동 회로)
 
 > HC-06 블루투스로 명령을 받아 L293D 모터 드라이버로
